@@ -1,0 +1,14 @@
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\bin\Debug\net6.0\Movie Review System.exe
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\bin\Debug\net6.0\Movie Review System.deps.json
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\bin\Debug\net6.0\Movie Review System.runtimeconfig.json
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\bin\Debug\net6.0\Movie Review System.dll
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\bin\Debug\net6.0\ref\Movie Review System.dll
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\bin\Debug\net6.0\Movie Review System.pdb
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.AssemblyInfoInputs.cache
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.AssemblyInfo.cs
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.csproj.CoreCompileInputs.cache
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.dll
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\ref\Movie Review System.dll
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.pdb
+C:\Users\Andrew work\source\repos\Movie Review System\Movie Review System\obj\Debug\net6.0\Movie Review System.genruntimeconfig.cache
