@@ -42,7 +42,46 @@ namespace Movie_Review_Website
         }
         ///////////////////////////Methods///////////////////////////////
 
-       
+        public static int Starrating()
+        {
+            bool Rating = false;
+
+            int starRating;
+            Console.WriteLine("Please enter your rating our of 5 stars");
+            do
+            {
+               
+                bool checkrating = int.TryParse(Console.ReadLine(), out starRating);
+                if (checkrating == true)
+                {
+
+
+                    if (starRating > 5 || starRating < 1)
+                    {
+                        Console.WriteLine("please enter a value between 1 and 5");
+                    }
+
+                    else
+                    {
+                        Rating = true;
+                        Console.WriteLine("thank you for your rating");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("please enter a value between 1 and 5");
+                }
+
+
+
+            }
+            while (!Rating);
+            return starRating;
+
+
+
+        }
+
         public void ageRating(int AgeRating)
         {
 

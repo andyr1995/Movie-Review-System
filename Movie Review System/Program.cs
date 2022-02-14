@@ -47,42 +47,16 @@ public class program
         string Genre = Console.ReadLine();
 
         Console.WriteLine("What Length is the video in minutes?");
-        long Length = long.Parse(Console.ReadLine());
+        long Length = long.Parse(Console.ReadLine());                          // Add a feature to stop crashing similar to the starRating
 
         Console.WriteLine("What AgeRating is the video?");
-        int AgeRating = int.Parse(Console.ReadLine());
+        int AgeRating = int.Parse(Console.ReadLine());                         // Add a feature to stop crashing similar to the starRating
 
         Console.WriteLine("What is the title of the video?");
         string Title = Console.ReadLine();
 
-        Console.WriteLine("What would you rate this video out of 5 stars?");
-        int starRating = int.Parse(Console.ReadLine());
+        int starRating = Video.Starrating();
         Console.WriteLine("You have chosen " + starRating + " stars");
-        switch (starRating)
-        {
-            case 1:
-
-                break;
-
-            case 2:
-
-                break;
-
-            case 3:
-
-                break;
-
-            case 4:
-
-                break;
-
-            case 5:
-
-                break;
-
-
-        }
-
         Console.WriteLine("Please leave a written review for this video:");
         string writtenReview = Console.ReadLine();
         Console.WriteLine(" ");

@@ -25,22 +25,7 @@ namespace Movie_Review_Website
         }
 
         ///////////////////////////Methods///////////////////////////////
-        public static Film Starrating(int starRating)
-        {
-            bool Rating = false;
-
-            int starRating;
-
-            Film Filmrating = new Film();
-            StarRating = starRating();
-            if (starRating > 5)
-            {
-                Filmrating = new Film(starRating);
-                Console.WriteLine("please enter a value between 1 and 5");
-
-            }
-
-        }
+        
 
     }
 }

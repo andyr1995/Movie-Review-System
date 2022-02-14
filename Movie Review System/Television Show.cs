@@ -25,11 +25,7 @@ namespace Movie_Review_Website
         }
 
         ///////////////////////////Methods///////////////////////////////
-        public void Starrating(int starRating)
-        {
-            bool Rating = false;
-            int starRating;
-        }
+       
     }
 
 }
